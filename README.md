@@ -4,7 +4,7 @@ This project is focused on building a decentralized, fully distributed content-a
 
 ## Chapters
 
-- [ ] **Chapter 1: Building a Decentralized File Storage System** 
+- [x] **Chapter 1: Building a Decentralized File Storage System** 
 - [ ] **Chapter 2: Accept and Listen**
 - [ ] **Chapter 3: Hard Handshakes and Error Handling**
 - [ ] **Chapter 4: Developing a Custom Decoder for TCP Transport**
