@@ -1,6 +1,4 @@
-Deexi's distributed file system in golang
-
-# Decentralized File Storage System in Go
+# Deexi's Decentralized File Storage System in Go
 
 This project is focused on building a decentralized, fully distributed content-addressable file storage system using Go. The system is capable of handling and streaming very large files. It covers various aspects such as system design, low-level programming, and network protocols, resulting in a highly practical and scalable application.
 
